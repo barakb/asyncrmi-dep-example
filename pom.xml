@@ -48,7 +48,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.barakb</groupId>
-            <artifactId>asyncrmi</artifactId>
+            <artifactId>asyncrmi-dep</artifactId>
             <version>1.0.2</version>
         </dependency>
         <dependency>
